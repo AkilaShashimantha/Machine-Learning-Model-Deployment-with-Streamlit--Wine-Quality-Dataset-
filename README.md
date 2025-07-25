@@ -34,4 +34,4 @@ The best performing model was the **Random Forest Classifier**, which was select
 
 ## Deployed Application
 
-You can access the deployed application here: **[Your Streamlit Cloud App URL]**
+You can access the deployed application here: https://her6bf4jzzdhx8ecmxurvd.streamlit.app/
