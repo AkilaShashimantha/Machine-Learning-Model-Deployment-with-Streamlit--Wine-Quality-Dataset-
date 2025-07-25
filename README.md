@@ -1,6 +1,6 @@
 # 🍷 Wine Quality Prediction with Streamlit
 
-[cite_start]This project is an assignment to build a complete machine learning pipeline, from data exploration to model deployment. [cite: 4] [cite_start]It uses the Wine Quality dataset to train a classification model and deploys it as an interactive web application using Streamlit and Streamlit Cloud. [cite: 5, 10]
+This project is an assignment to build a complete machine learning pipeline, from data exploration to model deployment. [cite: 4] [cite_start]It uses the Wine Quality dataset to train a classification model and deploys it as an interactive web application using Streamlit and Streamlit Cloud. 
 
 ## Dataset
 
@@ -8,11 +8,11 @@ The dataset used for this project is the **Wine Quality Dataset** from Kaggle (`
 
 ## Model Training
 
-[cite_start]Two different algorithms were trained to predict wine quality: [cite: 27]
+Two different algorithms were trained to predict wine quality: 
 * Logistic Regression
 * Random Forest Classifier
 
-The best performing model was the **Random Forest Classifier**, which was selected for deployment. [cite_start]The model training and evaluation process is detailed in the `model_training.ipynb` notebook. [cite: 82]
+The best performing model was the **Random Forest Classifier**, which was selected for deployment. [cite_start]The model training and evaluation process is detailed in the `model_training.ipynb` notebook. 
 
 ## How to Run the Project Locally
 
